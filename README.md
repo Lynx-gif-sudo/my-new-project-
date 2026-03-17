@@ -8,7 +8,7 @@ Final project for the Building AI course
 
 ## Summary
 
-Its my first project as a begginer for my Building AI course.
+Its my first project as a beginner for my Building AI course.
 I just made a sleeping cute cat on his back with the help of AI
 
 
