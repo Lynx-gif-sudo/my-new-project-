@@ -8,7 +8,8 @@ Final project for the Building AI course
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+Its my first project as a begginer for my Building AI course.
+I just made a sleeping cute cat on his back with the help of AI
 
 
 ## Background
